@@ -8,6 +8,10 @@ WIP
 
 <html>
 <style>
+    img
+    {
+        padding: 0px;
+    }
 </style>
 <h1 style="text-align:center; white-space: nowrap;">Power to the people</h1>
 <img src="/Images/HomePhoto.png" width="1000" height="600">
