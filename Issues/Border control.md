@@ -4,6 +4,9 @@ parent: Issues
 layout: home
 nav_order: 2
 ---
+Finished
+{: .label .label-green}
+
 <h1>Border Security</h1>
 
 <p>We will add more officers at the border and increase staffing for immigration legal cases. We will also limit the number of people allowed parole each day while making it easier to work while waiting for asylum.</p>

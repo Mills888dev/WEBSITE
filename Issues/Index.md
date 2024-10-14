@@ -3,6 +3,8 @@ title: Issues
 layout: home
 nav_order: 2
 ---
+WIP
+{: .label .label-ysellow}
 <html>
 <h1>Issues</h1>
     <h2>Gun Control</h2>

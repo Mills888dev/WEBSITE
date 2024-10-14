@@ -4,6 +4,9 @@ parent: Issues
 layout: home
 nav_order: 1
 ---
+Finished
+{: .label .label-green}
+
 <html>
     <h1>Gun Control</h1>
     <p>We will add restrictions on High-power rifles, automatics, and high-capacity weapons while keeping the same regulations for Self defense/hunting weapons.</p>
