@@ -15,7 +15,7 @@ WIP
     }
 </style>
 <h1 style="text-align:center; white-space: nowrap;">Power to the people</h1>
-<img src="HomePhoto.png" width=300px height=200px>
+<img src="HomePhoto.png" width=300px height=200px style="white-space: nowrap;">
 <h3 style="text-align:right; white-space: nowrap;">Your voice matters prepare to vote Miles this election</h3>
 <h2 style="text-align:right; white-space: nowrap">Donate Now</h2>
 <h2 style="text-align:right; white-space: nowrap">Or buy some of your merchandice</h2>
