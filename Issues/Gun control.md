@@ -6,7 +6,8 @@ nav_order: 1
 ---
 <html>
     <h1>Gun Control</h1>
-    <h2>Our changes</h2>
+    <p>We will add restrictions on High-power rifles, automatics, and high-capacity weapons while keeping the same regulations for Self defense/hunting weapons.</p>
+    <h2>Our Changes</h2>
     <ul>
         <li>We will increase funding for firearm education and mental health resources.</li>
         <ul>
@@ -18,7 +19,7 @@ nav_order: 1
         <li>Crack down on illegal weapons by fixing mental health.</li>
         <li>Charge parent for crimes of their children(based on severity)</li>
     </ul>
-    <h2>How it will affect you a gun owner</h2>
+    <h2>How it will affect you as a gun owner</h2>
         <p>People owning firearms will need to give up certain firearms to ranges or similar locations. Current firearm licences will become null/void in 6 months unless renewed before hand by going to a psycological evaluation.</p>
 
 </html>
