@@ -1,5 +1,6 @@
 ---
-title: Issues
+title: Taxes
+parent: Issues
 layout: home
 nav_order: 1
 ---
