@@ -8,7 +8,7 @@ nav_order: 2
 
 <p>We will add more officers at the border and increase staffing for immigration legal cases. We will also limit the number of people allowed parole each day while making it easier to work while waiting for asylum.</p>
 
-<h2>our changes</h2>
+<h2>Our Changes</h2>
 <ul>
 <li>Limit the number of people that can be allowed parole each day</li>
 <li>Make exceptions for people with appointments</li>
