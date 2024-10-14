@@ -11,6 +11,7 @@ WIP
     img
     {
         padding: 0px;
+        white-space: nowrap;
     }
 </style>
 <h1 style="text-align:center; white-space: nowrap;">Power to the people</h1>
