@@ -18,6 +18,7 @@ nav_order: 1
     </ul>
     <h2>How it will affect you a gun owner</h2>
         <p>People owning firearms will need to give up certain firearms to ranges or similar locations. Current firearm licences will become null/void in 6 months unless renewed before hand by going to a psycological evaluation.</p>
+        
 </html>
 ----
 
