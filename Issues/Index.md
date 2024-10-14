@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 WIP
-{: .label .label-ysellow}
+{: .label .label-yellow}
 <html>
 <h1>Issues</h1>
     <h2>Gun Control</h2>
