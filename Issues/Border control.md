@@ -10,14 +10,14 @@ nav_order: 2
 
 <h2>our changes</h2>
 <ul>
-<il>Limit the number of people that can be allowed parole each day</il>
-<il>Make exceptions for people with appointments</il>
-<il>Add more officers to stop crossings outside ports of entry</il>
-<il>Fund new tech for them to use</il>
-<il>Add more surveillance on the water</il>
-<il>Add more staff to work on immigration cases</il>
-<il>Make it possible for immigrants to work while waiting for asylum</il>
-<il>Pay for citizenship to pay for this and price will be scaled based on how much funding is needed</il>
+<li>Limit the number of people that can be allowed parole each day</li>
+<li>Make exceptions for people with appointments</li>
+<li>Add more officers to stop crossings outside ports of entry</li>
+<li>Fund new tech for them to use</li>
+<li>Add more surveillance on the water</li>
+<li>Add more staff to work on immigration cases</li>
+<li>Make it possible for immigrants to work while waiting for asylum</li>
+<li>Pay for citizenship to pay for this and price will be scaled based on how much funding is needed</li>
 </ul>
 <h2>how will this affect you</h2>
 <p>It shoudnt affect you to much but it could cause mass imegrations due to the pay for citizenship but should overall increase stability in certain cloes to the border communities/towns.</p>
