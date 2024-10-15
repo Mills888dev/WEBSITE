@@ -18,7 +18,6 @@ WIP
       white-space: nowrap;
       padding: 20px;
     }
-
     .merch-box {
       display: inline-block;
       width: 200px;
@@ -28,17 +27,14 @@ WIP
       text-align: center;
       background-color: #f9f9f9;
     }
-
     .merch-box img {
       width: 100%;
       height: 200px;
     }
-
     .merch-box h3 {
       margin: 10px 0;
       font-size: 18px;
     }
-
     .merch-box p {
       font-size: 14px;
       color: #555;
@@ -46,31 +42,28 @@ WIP
   </style>
 </head>
 <body>
-
   <h2>Merchandise</h2>
   <div class="merchandise-container">
     <div class="merch-box">
       <img src="product1.jpg" alt="Product 1">
       <h3>Product 1</h3>
       <p>$20</p>
+            <button class="submit-button">Buy Now</button>
     </div>
-
     <div class="merch-box">
       <img src="product2.jpg" alt="Product 2">
       <h3>Product 2</h3>
       <p>$25</p>
+            <button class="submit-button">Buy Now</button>
     </div>
-
     <div class="merch-box">
       <img src="product3.jpg" alt="Product 3">
       <h3>Product 3</h3>
       <p>$30</p>
+      <button class="submit-button">Buy Now</button>
     </div>
-
     <!-- Add more product boxes here -->
-
   </div>
-
 </body>
 </html>
 
