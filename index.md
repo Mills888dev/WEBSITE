@@ -3,10 +3,10 @@ title: Home
 layout: home
 nav_order: 1
 ---
+
 WIP
 {: .label .label-yellow}
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
