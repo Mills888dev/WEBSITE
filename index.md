@@ -7,7 +7,7 @@ nav_order: 1
 WIP
 {: .label .label-yellow}
 
-<html lang="en">
+<html lang="en">    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -83,7 +83,7 @@ WIP
             <h1>Your Voice Matters</h1>
             <p>Prepare to vote for Miles this election!</p>
             <div class="buttons">
-                <a href="#" class="button">Donate Now</a>
+                <a href="https://mills888dev.github.io/WEBSITE/donations/Donations.html" class="button">Donate Now</a>
                 <a href="#" class="button">Buy Merchandise</a>
             </div>
         </div>
