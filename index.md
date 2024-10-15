@@ -25,31 +25,34 @@ WIP
             align-items: center;
             justify-content: center;
         }
-        .image-box {
+        .image-box, .text-box {
             flex: 1;
-            height: 80%;
+            max-width: 50%; /* Ensure the two boxes take up equal space */
+            height: auto;
         }
         .image-box img {
-            height: 100%;
             width: 100%;
+            height: auto;
             object-fit: cover;
             border-radius: 10px;
         }
         .text-box {
-            flex: 1;
             background-color: rgba(128, 0, 128, 0.8); /* Purple box */
             padding: 20px;
-            margin-left: 50px;
+            margin-left: 20px;
             border-radius: 10px;
             color: white;
             text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
         h1 {
-            font-size: 36px;
+            font-size: 2.5vw;
             margin-bottom: 20px;
         }
         p {
-            font-size: 18px;
+            font-size: 1.5vw;
             margin-bottom: 20px;
         }
         .newsletter-form {
@@ -64,7 +67,7 @@ WIP
             border-radius: 5px;
             width: 80%;
             max-width: 300px;
-            font-size: 16px;
+            font-size: 1.2vw;
         }
         .submit-button {
             background-color: white;
@@ -73,7 +76,7 @@ WIP
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 1.2vw;
             text-align: center;
             width: 80%;
             max-width: 300px;
@@ -87,7 +90,7 @@ WIP
 <body>
     <div class="container">
         <div class="image-box">
-            <img src="HomePhoto.jpg" alt="Candidate Image"> <!-- Replace with your image path -->
+            <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
         <div class="text-box">
             <h1>Your Voice Matters</h1>
@@ -100,7 +103,5 @@ WIP
     </div>
 </body>
 </html>
-
-
 ----
 
