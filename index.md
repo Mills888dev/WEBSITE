@@ -131,7 +131,6 @@ WIP
             color: white;
         }
                 .merch-section {
-            background-color: #f7f7f7;
             padding: 40px;
             text-align: center;
         }
@@ -186,16 +185,16 @@ WIP
         <div class="merch-section">
         <h2>Check Out Our Merchandise</h2>
         <div class="merch-preview">
-            <img src="shirt.jpg" alt="T-Shirt">  <!-- Replace with actual image paths -->
-            <img src="cap.jpg" alt="Cap">
-            <img src="mug.jpg" alt="Mug">
+            <img src="product1.jpg" alt="T-Shirt">  <!-- Replace with actual image paths -->
+            <img src="product2.jpg" alt="Cap">
+            <img src="product3.jpg" alt="Mug">
         </div>
         <a href="/merch">Visit Our Merch Page</a>
         </div>
       <div class="donate-bar">
         <h2>Donate Now</h2>
-        <a href="/Funding/Donations.md`">Go to Donations Page</a>
-
+        <a href="/Funding/Donations.md">Go to Donations Page</a>
+</html>
 
 ----
 

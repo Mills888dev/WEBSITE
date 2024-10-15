@@ -4,11 +4,6 @@ parent: Issues
 layout: home
 nav_order: 3
 ---
-Finished
-{: .label .label-green}
-
-second attempt
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
