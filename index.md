@@ -24,7 +24,7 @@ WIP
             align-items: center;
             justify-content: center;
             padding: 20px;
-            background-color: #f5f5f5;
+            background-color: #7095DB;
             position: sticky;
             top: 0;
             z-index: 999;
@@ -100,7 +100,7 @@ WIP
             color: #333;
         }
                 .donate-bar {
-            background-color: #4CAF50; /* Solid color (Green in this case) */
+            background-color: #53D4E6; /* Solid color (Green in this case) */
             color: white;
             padding: 20px;
             position: fixed;
@@ -199,7 +199,10 @@ WIP
       <div class="donate-bar">
         <h2>Donate Now</h2>
         <a href="/donate">Go to Donations Page</a>
-</body>
+    </body>
 </html>
+
+
+https://coolors.co/1d998d-7095db-1eb07f-53d4e6-5cdbab
 ----
 
