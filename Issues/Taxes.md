@@ -12,7 +12,6 @@ WIP
     <h2>Our Changes</h2>
     <ul>
         <il>10% of your taxes will go towards these categories and you can pick them</il>
-        <ul>
             <il>police</il>
             <il>Military</il>
             <il>public transport</il>
@@ -20,9 +19,8 @@ WIP
             <il>Education</il>
             <il>General Govermant</il>
             <il>View the example <a href="https://docs.google.com/spreadsheets/d/10oxkAzvUcloLLZc83nalHt6Bl-7g-g0pl6pxX95FG4U/edit?usp=sharing">here</a></il>
-        </ul>
         <il>Minor increace in taxes to fund more systems and allow more choice for you</il>
-        <li>Decrease military funding and take down multiple off-shore  military installments and increase funding towards military research.</li>
+        <li>Decreased military funding and taking down multiple foreign US military installments and increase funding towards military research.</li>
         <il>Better mental health</il>
     </ul>
     <h2>How it will affect you as a tax payer</h2>
