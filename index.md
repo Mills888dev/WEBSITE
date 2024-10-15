@@ -194,7 +194,5 @@ WIP
       <div class="donate-bar">
         <h2>Donate Now</h2>
         <a href="/Funding/Donations.md">Go to Donations Page</a>
-</html>
 
-----
 
