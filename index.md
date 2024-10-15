@@ -24,7 +24,7 @@ WIP
             align-items: center;
             justify-content: center;
             padding: 20px;
-            background-color: #7095DB;
+            background-color: #8f8f8f;
             top: 0;
             z-index: 999;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -40,7 +40,7 @@ WIP
             border-radius: 10px;
         }
         .text-box {
-            background-color: rgba(128, 0, 128, 0.8); /* Purple box */
+            background-color: #1EB07F; /* Purple box */
             padding: 20px;
             margin-left: 20px;
             border-radius: 10px;
@@ -74,7 +74,7 @@ WIP
         }
         .submit-button {
             background-color: white;
-            color: purple;
+            color: #1EB07F;
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
@@ -85,7 +85,7 @@ WIP
             max-width: 300px;
         }
         .submit-button:hover {
-            background-color: purple;
+            background-color: #1EB07F;
             color: white;
         }
         /* Content below the top section */
