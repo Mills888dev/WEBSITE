@@ -12,22 +12,27 @@ WIP
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Political Campaign</title>
     <style>
-        body, html {
+              body, html {
             margin: 0;
             padding: 0;
             height: 100%;
             font-family: Arial, sans-serif;
         }
-        .container {
+        /* Wrapper to keep the top section at the top */
+        .top-section {
             display: flex;
-            height: 100vh;
             align-items: center;
             justify-content: center;
+            padding: 20px;
+            background-color: #f5f5f5;
+            position: sticky;
+            top: 0;
+            z-index: 999;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
         .image-box, .text-box {
             flex: 1;
-            max-width: 50%; /* Ensure the two boxes take up equal space */
-            height: auto;
+            max-width: 50%; /* Ensures the image and text take up equal space */
         }
         .image-box img {
             width: 100%;
@@ -83,6 +88,16 @@ WIP
         .submit-button:hover {
             background-color: purple;
             color: white;
+        }
+        /* Content below the top section */
+        .below-content {
+            padding: 40px;
+            text-align: center;
+            background-color: #fff;
+        }
+        .below-content h2 {
+            font-size: 28px;
+            color: #333;
         }
                 .donate-bar {
             background-color: #4CAF50; /* Solid color (Green in this case) */
@@ -156,9 +171,9 @@ WIP
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="top-section">
         <div class="image-box">
-            <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
+            <img src="candidate.jpg" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
         <div class="text-box">
             <h1>Your Voice Matters</h1>
@@ -169,10 +184,8 @@ WIP
             </div>
         </div>
     </div>
-        <div class="donate-bar">
-        <h2>Donate Now</h2>
-        <a href="/donate">Go to Donations Page</a>
-    </div>
+    <div class="below-content">
+        </div>
         <div class="merch-section">
         <h2>Check Out Our Merchandise</h2>
         <div class="merch-preview">
@@ -181,7 +194,11 @@ WIP
             <img src="mug.jpg" alt="Mug">
         </div>
         <a href="/merch">Visit Our Merch Page</a>
+        </div>
     </div>
+      <div class="donate-bar">
+        <h2>Donate Now</h2>
+        <a href="/donate">Go to Donations Page</a>
 </body>
 </html>
 ----
