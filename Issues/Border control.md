@@ -1,5 +1,5 @@
 ---
-title: Gun Control
+title: Border Control
 parent: Issues
 layout: home
 nav_order: 3
@@ -8,7 +8,7 @@ nav_order: 3
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Gun Control Policy</title>
+   <title>Border Control</title>
    <style>
        body, html {
            margin: 0;
