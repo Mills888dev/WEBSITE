@@ -48,19 +48,19 @@ WIP
       <img src="product1.jpg" alt="Product 1">
       <h3>Product 1</h3>
       <p>$20</p>
-            <button href="/Error.html" class="button">Buy Now</button>
+            <button href="/Error.html" class="disabled">Buy Now</button>
     </div>
     <div class="merch-box">
       <img src="product2.jpg" alt="Product 2">
       <h3>Product 2</h3>
       <p>$25</p>
-            <button href="/Error.html" class="button">Buy Now</button>
+            <button href="/Error.html" class="disabled">Buy Now</button>
     </div>
     <div class="merch-box">
       <img src="product3.jpg" alt="Product 3">
       <h3>Product 3</h3>
       <p>$30</p>
-      <button href="/Error.html" class="button">Buy Now</button>
+      <button href="/Error.html" class="disabled">Buy Now</button>
     </div>
     <!-- Add more product boxes here -->
   </div>
