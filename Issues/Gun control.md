@@ -104,7 +104,7 @@ nav_order: 3
         </p>
 
         <!-- Call to action -->
-        <a href="/policy-details" class="action-button">Donate now</a>
+        <a href="/Error.html" class="action-button">Donate now</a>
     </div>
 
 </body>
