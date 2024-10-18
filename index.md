@@ -213,6 +213,11 @@ WIP
     </div>
     <div class="below-content">
         </div>
+        <div class="policies-content">
+        <h2>Explore Our Policies & Issues</h2>
+        <p>Learn more about where we stand on the issues that matter most. Your voice shapes our future!</p>
+        <a href="/policies" class="policies-button">View Policies</a>
+        </div>
         <div class="merch-section">
         <h2 style="color:white;">Check Out Our Merchandise</h2>
         <div class="merch-preview">
@@ -222,15 +227,9 @@ WIP
         </div>
         <a href="/merch">Visit Our Merch Page</a>
         </div>
-        <div class="policies-content">
-        <h2>Explore Our Policies & Issues</h2>
-        <p>Learn more about where we stand on the issues that matter most. Your voice shapes our future!</p>
-        <a href="/policies" class="policies-button">View Policies</a>
-        </div>
       <div class="donate-bar">
         <h2>Donate Now</h2>
         <a href="/Funding/Donations.md">Go to Donations Page</a>
-        </div>
         </div>
 </html>
 
