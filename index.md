@@ -165,6 +165,37 @@ WIP
         .merch-section a:hover {
             background-color: #555;
         }
+            .policies-section {
+        background-color: #7095DB; /* Matches main site blue color */
+        padding: 40px;
+        text-align: center;
+        border-radius: 10px;
+        margin: 40px auto;
+        max-width: 800px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    .policies-content h2 {
+        color: white;
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+    }
+    .policies-content p {
+        color: #f7f7f7;
+        font-size: 1.2rem;
+        margin-bottom: 30px;
+    }
+    .policies-button {
+        background-color: #4CAF50; /* Green to match other elements */
+        color: white;
+        padding: 15px 30px;
+        text-decoration: none;
+        font-size: 1.2rem;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+    .policies-button:hover {
+        background-color: #45a049; /* Darken button on hover */
+    }
     </style>
 </head>
     <div class="top-section">
@@ -191,9 +222,15 @@ WIP
         </div>
         <a href="/merch">Visit Our Merch Page</a>
         </div>
+        <div class="policies-content">
+        <h2>Explore Our Policies & Issues</h2>
+        <p>Learn more about where we stand on the issues that matter most. Your voice shapes our future!</p>
+        <a href="/policies" class="policies-button">View Policies</a>
+        </div>
       <div class="donate-bar">
         <h2>Donate Now</h2>
         <a href="/Funding/Donations.md">Go to Donations Page</a>
+        </div>
         </div>
 </html>
 

@@ -95,7 +95,6 @@ nav_order: 1
         <!-- Call to action -->
         <a href="WEBSITE/errorv2.md" class="action-button">Donate now</a>
     </div>
-
 </body>
 </html>
 
