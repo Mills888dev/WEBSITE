@@ -1,7 +1,7 @@
 ---
-title: Error 404
-nav_exclude: true
+title: Taxes
 layout: home
+nav_exclude: true
 ---
 <html lang="en">
 <head>
@@ -88,4 +88,3 @@ layout: home
     </div>
 </body>
 </html>
-----

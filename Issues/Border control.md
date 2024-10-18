@@ -15,7 +15,7 @@ nav_order: 3
            padding: 0;
            font-family: Arial, sans-serif;
            background-color: #27262b;
-           color: #333;
+           color: #f4f2f8;
            line-height: 1.6;
        }
 
@@ -117,7 +117,7 @@ nav_order: 3
 
 
        <!-- Call to action -->
-       <a href="/Error.md" class="action-button">Donate now</a>
+       <a href="/errorv2.md" class="action-button">Donate now</a>
    </div>
 
 
