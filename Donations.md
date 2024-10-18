@@ -3,14 +3,10 @@ title: Merchandise
 layout: home
 nav_order: 3
 ---
-WIP
-{: .label .label-green}
-
 <div class="merch-page-section">
-    <h1>All funds help our campaign!</h1>
+    <h1>All funds help bring power to the people!</h1>
     <div class="donate-section">
     <h2>Support Our Campaign</h2>
-    <p>Select your donation amount:</p>
     <form action="/donate" method="POST" class="donation-form">
         <div class="donation-amounts">
             <label>
@@ -60,7 +56,7 @@ WIP
     .merch-page-section h1 {
         font-size: 36px;
         margin-bottom: 30px;
-        color: #333;
+        color: white;
     }
 
     .merch-item-container {
@@ -126,13 +122,13 @@ WIP
     }
 
     .donate-section h2 {
-        color: #333;
+        color: white;
         font-size: 2rem;
         margin-bottom: 20px;
     }
 
     .donate-section p {
-        color: #666;
+        color: white;
         font-size: 1.2rem;
         margin-bottom: 20px;
     }
@@ -152,7 +148,7 @@ WIP
 
     .donation-amounts label {
         background-color: #7095DB;
-        color: white;
+        color: black;
         padding: 10px 20px;
         border-radius: 5px;
         font-size: 1.2rem;
@@ -171,7 +167,7 @@ WIP
 
     .donate-button {
         background-color: #4CAF50;
-        color: white;
+        color: black;
         padding: 15px 30px;
         border: none;
         border-radius: 5px;
