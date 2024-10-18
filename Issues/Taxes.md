@@ -71,12 +71,10 @@ nav_order: 1
 <body>
     <div class="content-container">
         <h1>Gun Control</h1>
-        <p>
-            We will change our tax system into one of <stong>free choice</strong> by allowing you to pick wherer some of your taxes go.
-        </p>
+        <p>We will change our tax system into one of <strong>free choice</strong> by allowing you to pick wherer some of your taxes go.</p>
         <h2>Our Changes</h2>
         <ul>
-             <li>10% of your taxes will go towards these categories and you can pick them</il>
+             <li>10% of your taxes will go towards these categories and you can pick them</li>
             <ul>
             <li>police</li>
             <li>Military</li>
