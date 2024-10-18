@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+title: Error 404
+nav_exclude: true
+layout: home
+---
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -72,7 +76,6 @@
     </style>
 </head>
 <body>
-
     <div class="container">
         <h1>Oops! Wrong Turn!</h1>
         <span class="emoji">🤔</span>
@@ -83,6 +86,5 @@
         </div>
         <a href="/index.md" class="back-home-button">Take Me Home</a>
     </div>
-
 </body>
 </html>
