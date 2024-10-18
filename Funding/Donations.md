@@ -1,70 +1,95 @@
 ---
-title: Donations
+title: Merchandise
 layout: home
 nav_order: 3
 ---
 WIP
 {: .label .label-green}
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Merchandise</title>
-  <style>
-    .merchandise-container {
-      width: 100%;
-      overflow-x: auto;
-      white-space: nowrap;
-      padding: 20px;
-    }
-    .merch-box {
-      display: inline-block;
-      width: 200px;
-      height: 300px;
-      margin-right: 20px;
-      border: 1px solid #ddd;
-      text-align: center;
-      background-color: #f9f9f9;
-    }
-    .merch-box img {
-      width: 100%;
-      height: 200px;
-    }
-    .merch-box h3 {
-      margin: 10px 0;
-      font-size: 18px;
-    }
-    .merch-box p {
-      font-size: 14px;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-  <h2>Merchandise</h2>
-  <div class="merchandise-container">
-    <div class="merch-box">
-      <img src="product1.jpg" alt="Product 1">
-      <h3>Product 1</h3>
-      <p>$20</p>
-            <button href="/Error.html" class="disabled">Buy Now</button>
+<div class="merch-page-section">
+    <h1>Our Merchandise</h1>
+    <div class="merch-item-container">
+        <!-- Shirt Item with Hover Effect -->
+        <div class="merch-item">
+            <img src="shirt-front.jpg" alt="T-Shirt Front" class="merch-image">
+            <img src="shirt-back.jpg" alt="T-Shirt Back" class="merch-image-hover">
+        </div>
+        
+        <!-- Other Merch Items -->
+        <div class="merch-item">
+            <img src="cap.jpg" alt="Cap" class="merch-image">
+        </div>
+        <div class="merch-item">
+            <img src="mug.jpg" alt="Mug" class="merch-image">
+        </div>
     </div>
-    <div class="merch-box">
-      <img src="product2.jpg" alt="Product 2">
-      <h3>Product 2</h3>
-      <p>$25</p>
-            <button href="/Error.html" class="disabled">Buy Now</button>
-    </div>
-    <div class="merch-box">
-      <img src="product3.jpg" alt="Product 3">
-      <h3>Product 3</h3>
-      <p>$30</p>
-      <button href="/Error.html" class="disabled">Buy Now</button>
-    </div>
-    <!-- Add more product boxes here -->
-  </div>
-</body>
-</html>
+</div>
+<style>
+    .merch-page-section {
+        background-color: #f7f7f7;
+        padding: 40px;
+        text-align: center;
+    }
+
+    .merch-page-section h1 {
+        font-size: 36px;
+        margin-bottom: 30px;
+        color: #333;
+    }
+
+    .merch-item-container {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .merch-item {
+        position: relative;
+        width: 250px;
+        height: 250px;
+    }
+
+    .merch-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+        border: 2px solid #ddd;
+        transition: opacity 0.3s ease;
+    }
+
+    /* Initially hide the back image */
+    .merch-image-hover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+        border: 2px solid #ddd;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    /* Show the back of the shirt on hover */
+    .merch-item:hover .merch-image-hover {
+        opacity: 1;
+    }
+
+    /* Hide the front of the shirt on hover */
+    .merch-item:hover .merch-image {
+        opacity: 0;
+    }
+
+    /* Style for the rest of the merch items */
+    .merch-item img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+        border: 2px solid #ddd;
+    }
+</style>
+
 
 ----
