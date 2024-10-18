@@ -104,7 +104,7 @@ nav_order: 3
         </p>
 
         <!-- Call to action -->
-        <a href="WEBSITE/errorv2.md" class="action-button">Donate now</a>
+        <a href="/Donations.md" class="action-button">Donate now</a>
     </div>
 
 </body>
