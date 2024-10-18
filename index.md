@@ -91,7 +91,7 @@ WIP
         .below-content {
             padding: 40px;
             text-align: center;
-            background-color: #fff;
+            background-color: #27262b;
         }
         .below-content h2 {
             font-size: 28px;
@@ -183,7 +183,7 @@ WIP
     <div class="below-content">
         </div>
         <div class="merch-section">
-        <h2>Check Out Our Merchandise</h2>
+        <h2 style="color:white;">Check Out Our Merchandise</h2>
         <div class="merch-preview">
             <img src="product1.jpg" alt="T-Shirt">  <!-- Replace with actual image paths -->
             <img src="product2.jpg" alt="Cap">

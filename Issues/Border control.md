@@ -24,7 +24,7 @@ nav_order: 3
            max-width: 1000px;
            margin: 40px auto;
            padding: 20px;
-           background-color: white;
+           background-color: #27262b;
            border-radius: 10px;
            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
        }
