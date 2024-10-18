@@ -76,10 +76,10 @@ nav_order: 1
         <ul>
              <li>10% of your taxes will go towards these categories and you can pick them</li>
             <ul>
-            <li>police</li>
+            <li>Police</li>
             <li>Military</li>
-            <li>public transport</li>
-            <li>mental health</li>
+            <li>Public transport</li>
+            <li>Mental health</li>
             <li>Education</li>
             <li>General Govermant</li>
             <li>View the example <a href="https://docs.google.com/spreadsheets/d/10oxkAzvUcloLLZc83nalHt6Bl-7g-g0pl6pxX95FG4U/edit?usp=sharing">here</a></li>
