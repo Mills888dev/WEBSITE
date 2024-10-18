@@ -216,7 +216,7 @@ WIP
         <div class="policies-content">
         <h2>Explore Our Policies & Issues</h2>
         <p>Learn more about where we stand on the issues that matter most. Your voice shapes our future!</p>
-        <a href="/WEBSITE/Issues/Index.md" class="policies-button">View Policies</a>
+        <a href="/WEBSITE/Issues/Index.html" class="policies-button">View Policies</a>
         </div>
         <div class="merch-section">
         <h2 style="color:white;">Check Out Our Merchandise</h2>
@@ -225,11 +225,11 @@ WIP
             <img src="product2.jpg" alt="Cap">
             <img src="product3.jpg" alt="Mug">
         </div>
-        <a href="/WEBSITE/Donations.md">Visit Our Merch Page</a>
+        <a href="/WEBSITE/Donations.html">Visit Our Merch Page</a>
         </div>
       <div class="donate-bar">
         <h2>Donate Now</h2>
-        <a href="/WEBSITE/Donations.md">Go to Donations Page</a>
+        <a href="/WEBSITE/Donations.html">Go to Donations Page</a>
         </div>
 </html>
 

@@ -75,7 +75,7 @@ nav_exclude: true
             <strong>Why did the web developer go broke?</strong><br>
             <em>Because he used up all his cache!</em>
         </div>
-        <a href="/index.md" class="back-home-button">Take Me Home</a>
+        <a href="/WEBSITE" class="back-home-button">Take Me Home</a>
     </div>
 </body>
 </html>
