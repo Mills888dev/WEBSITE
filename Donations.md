@@ -38,9 +38,15 @@ WIP
         <!-- Other Merch Items -->
         <div class="merch-item">
             <img src="product2.jpg" alt="Cap" class="merch-image">
+            <img src="product2back.jpg" alt="cap back" class="merch-image-hover">
         </div>
         <div class="merch-item">
             <img src="product3.jpg" alt="Mug" class="merch-image">
+            <img src="product3back.jpg" alt="mug back" class="merch-image-hover">
+        </div>
+        <div class="merch-item">
+          <img src="product4.jpg" alt="Mug" class="merch-image">
+            <img src="product4back.jpg" alt="mug back" class="merch-image-hover">
         </div>
     </div>
 </div>
