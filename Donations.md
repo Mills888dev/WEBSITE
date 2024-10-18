@@ -32,8 +32,8 @@ WIP
     <div class="merch-item-container">
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
-            <img src="/product1.jpg" alt="T-Shirt Front" class="merch-image">
-            <img src="/product1back.jpg" alt="T-Shirt Back" class="merch-image-hover">
+            <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
+            <img src="product1back.jpg" alt="T-Shirt Back" class="merch-image-hover">
         </div>   
         <!-- Other Merch Items -->
         <div class="merch-item">
