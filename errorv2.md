@@ -19,7 +19,6 @@ nav_exclude: true
             align-items: center;
             background-color: #f7f7f7;
         }
-
         .container {
             text-align: center;
             background-color: white;
@@ -27,23 +26,19 @@ nav_exclude: true
             border-radius: 15px;
             box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
         }
-
         h1 {
             font-size: 3rem;
             color: #ff6347;
         }
-
         p {
             font-size: 1.5rem;
             margin: 20px 0;
         }
-
         .joke {
             font-size: 1.2rem;
             margin: 20px 0;
             color: #555;
         }
-
         .back-home-button {
             display: inline-block;
             background-color: #4CAF50;
@@ -54,25 +49,21 @@ nav_exclude: true
             font-size: 1.2rem;
             transition: background-color 0.3s;
         }
-
         .back-home-button:hover {
             background-color: #45a049;
         }
-
         .emoji {
             font-size: 4rem;
         }
-
         /* Responsive design */
         @media (max-width: 600px) {
             h1 {
                 font-size: 2rem;
             }
-
             p, .joke {
                 font-size: 1.1rem;
             }
-        }
+       } 
     </style>
 </head>
 <body>
