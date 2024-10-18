@@ -14,7 +14,7 @@ nav_order: 3
            margin: 0;
            padding: 0;
            font-family: Arial, sans-serif;
-           background-color: #f7f7f7;
+           background-color: #27262b;
            color: #333;
            line-height: 1.6;
        }
