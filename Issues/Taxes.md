@@ -93,7 +93,7 @@ nav_order: 1
             The new tax system will allow you to have more of a voice in what happens. Every year you will change what gets funding and what gets less, meaning that you can better influence your ever changing interests.
         </p>
         <!-- Call to action -->
-        <a href="/Donations.md" class="action-button">Donate now</a>
+        <a href="/WEBSITE/Donations.md" class="action-button">Donate now</a>
     </div>
 </body>
 </html>
