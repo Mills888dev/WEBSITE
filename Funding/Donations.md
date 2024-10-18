@@ -7,7 +7,7 @@ WIP
 {: .label .label-green}
 
 <div class="merch-page-section">
-    <h1>Our Merchandise</h1>
+    <h1>All funds help our campaign!</h1>
     <div class="donate-section">
     <h2>Support Our Campaign</h2>
     <p>Select your donation amount:</p>
@@ -26,15 +26,14 @@ WIP
                 <input type="radio" name="amount" value="100"> $100
             </label>
         </div>
-
         <button type="submit" class="donate-button">Donate Now</button>
     </form>
 </div>
     <div class="merch-item-container">
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
-            <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
-            <img src="product1back.jpg" alt="T-Shirt Back" class="merch-image-hover">
+            <img src="/product1.jpg" alt="T-Shirt Front" class="merch-image">
+            <img src="/product1back.jpg" alt="T-Shirt Back" class="merch-image-hover">
         </div>   
         <!-- Other Merch Items -->
         <div class="merch-item">
