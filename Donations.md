@@ -52,7 +52,7 @@ WIP
 </div>
 <style>
     .merch-page-section {
-        background-color: #f7f7f7;
+        background-color: #27262b;
         padding: 40px;
         text-align: center;
     }
@@ -116,7 +116,7 @@ WIP
         border: 2px solid #ddd;
     }
         .donate-section {
-        background-color: #f7f7f7;
+        background-color: #3d3b41;
         padding: 40px;
         text-align: center;
         border-radius: 10px;
