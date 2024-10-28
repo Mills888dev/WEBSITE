@@ -200,7 +200,7 @@ WIP
 </head>
     <div class="top-section">
         <div class="image-box">
-            <img src="(:).png" alt="Candidate Image"> <!-- Replace with your image path -->
+            <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
         <div class="text-box">
             <h1>Your Voice Matters</h1>
