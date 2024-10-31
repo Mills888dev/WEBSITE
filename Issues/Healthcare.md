@@ -108,7 +108,7 @@ nav_order: 3
        </ul>
 
 
-       <h2>How This Will Change Healthcare</h2>
+       <h2>How This Will Change Healthcare for You</h2>
        <p>
            <ul>
            <li>Lower medical bills for certain people</li>
