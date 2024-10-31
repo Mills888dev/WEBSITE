@@ -92,7 +92,7 @@ nav_order: 3
    <div class="content-container">
        <h1>Healthcare</h1>
        <p>
-           Enforce antitrust laws to bring down prices, reform DTC ads, and lower the cost for becoming a licensed therapist.
+           Enforce antitrust laws to <strong>bring down prices</strong>, reform Direct-To-Consumer ads, <strong>reimburse medical bills</strong>, and give scholarships for people training to become a therapist.
        </p>
 
 
@@ -108,9 +108,15 @@ nav_order: 3
        </ul>
 
 
-       <h2>How Will This Affect You</h2>
+       <h2>How This Will Change Healthcare</h2>
        <p>
-           add things that need to be made
+           <ul>
+           <li>Lower medical bills for certain people</li>
+           <li>Reduce the number of people putting off care because of cost</li>
+           <li>Lower the cost of therapy because there are more therapists</li>
+           <li>Take a long time to limit monopolies</li>
+           <li>Supports both private and  and public healthcare</li>
+           </ul>
        </p>
 
 
