@@ -104,7 +104,6 @@ nav_order: 3
 		<li>Strengthen guidelines for medical Direct-to-Consumer Advertising and increase resources for the FDA to review those ads</li>
 		<li>Allow Medicare to negotiate with drug manufactures the lower the cost that people pay</li>
 		<li>Reimburse part of medical costs for people in the 12%-24% tax brackets, 12% will get the most and 24% will get the least. All other brackets will get noting</li>
-        <li>Add more staff to work on immigration cases</li>
        </ul>
 
 

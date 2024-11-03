@@ -109,7 +109,7 @@ nav_order: 3
         <ul>
             <li> Also increase support staff to help judges</li>
         </ul>
-        <li>Add staff to work to approve Employment authorization documents faster so more people can work while they wait</li>
+        <li>Add staff to work to approve Employment authorization documents faster so more people can work while they wait for updated status</li>
         <li>Pay for citizenship to pay for this and price will be scaled based on how much funding is needed</li>
        </ul>
 
