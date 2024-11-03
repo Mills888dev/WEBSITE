@@ -15,6 +15,9 @@ WIP
     <p>The new tax system will allow you to have more of a voice in what happens. Every year you will change what gets funding and what gets less, meaning that you can better influence your changing interests. <a href="https://mills888dev.github.io/WEBSITE/Issues/Gun%20control.html">Read more</a> </p>
     <h2>Healthcare</h2>
     <p>Enforce antitrust laws to bring down prices, reform Direct-To-Consumer ads, reimburse medical bills, and give scholarships for people training to become a therapist. <a href="https://mills888dev.github.io/WEBSITE/Issues/Healthcare.html">Read more</a> </p>
+    <h2>Education</h2>
+    <p>Our minor changes to the education funding system will help increase education and make it easier for you as a US citizen to seek higher education.
+ <a href="https://mills888dev.github.io/WEBSITE/Issues/Healthcare.html">Read more</a> </p>
   
 </html>
 https://coolors.co/1d998d-7095db-1eb07f-53d4e6-5cdbab
