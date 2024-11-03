@@ -92,27 +92,31 @@ nav_order: 3
    <div class="content-container">
        <h1>Border Security</h1>
        <p>
-           We will add more officers at the border and increase staffing for immigration legal cases. We will also limit the number of people allowed parole each day while making it easier to work while waiting for asylum.
+           We will add 1,000 more officers at the southern border and increase staffing for immigration legal cases to digitize the system faster. Along with that we will add 500 more judges and support staff to work with them which will reduce pending cases. We will also limit the number of new legal cases that can be filed each day while making it easier to work while waiting for updated status.
        </p>
 
 
        <h2>Our Changes</h2>
        
        <ul>
-		<li>Limit the number of people that can be allowed parole each day</li>
-		<li>Make exceptions for people with appointments</li>
+		<li>Limit the number of new legal case that can be filed each day. Number alowed will be reviewed each year and change depending on the number of pending cases left</li>
 		<li>Add more officers to stop crossings outside ports of entry</li>
-		<li>Fund new tech for them to use</li>
-		<li>Add more surveillance on the water</li>
-        <li>Add more staff to work on immigration cases</li>
-        <li>Make it possible for immigrants to work while waiting for asylum</li>
+		<ul>
+            <li>Fund new tech for border officers to use</li>
+		    <li>Add more surveillance on the water</li>
+        </ul>
+        <li>Add 500 more immigration judges</li>
+        <ul>
+            <li> Also increase support staff to help judges</li>
+        </ul>
+        <li>Add staff to work to approve Employment authorization documents faster so more people can work while they wait</li>
         <li>Pay for citizenship to pay for this and price will be scaled based on how much funding is needed</li>
        </ul>
 
 
        <h2>How Will This Affect You</h2>
        <p>
-           It shouldn't affect you too much but it could cause mass migrations due to the pay for citizenship but should overall increase stability in certain close to the border communities/towns.
+           Less taxpayer money will be spent on  non-citizens. There will be less “bad people” coming over which will make the country safer. The communities near the border will also be more stable because there will be less people coming over the border. This means less people moving through those communities and more long term relationships being made. 
        </p>
 
 
