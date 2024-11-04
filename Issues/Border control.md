@@ -92,7 +92,7 @@ nav_order: 3
    <div class="content-container">
        <h1>Border Security</h1>
        <p>
-           We will add 1,000 more officers at the southern border and increase staffing for immigration legal cases to digitize the system faster. Along with that we will add 500 more judges and support staff to work with them which will reduce pending cases. We will also limit the number of new legal cases that can be filed each day while making it easier to work while waiting for updated status.
+           We will <strong>add 1,000 more officers</strong> at the southern border and increase staffing for immigration legal cases to <strong>digitize the system</strong> faster. Along with that we will <strong>add 500 more judges</strong> and support staff to work with them which will reduce pending cases. We will also limit the number of new legal cases that can be filed each day while making it <strong>easier to work while waiting</strong> for updated status.
        </p>
 
 
