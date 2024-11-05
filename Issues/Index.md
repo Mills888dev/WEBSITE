@@ -16,7 +16,7 @@ WIP
     <h2>Healthcare</h2>
     <p>Enforce antitrust laws to bring down prices, reform Direct-To-Consumer ads, reimburse medical bills, and give scholarships for people training to become a therapist. <a href="https://mills888dev.github.io/WEBSITE/Issues/Healthcare.html">Read more</a> </p>
     <h2>Education</h2>
-    <p>Our minor changes to the education funding system will help increase education and make it easier for you as a US citizen to seek higher education.
+    <p>We will increase funding for the education system to make it easier for citizens to gain higher education.
  <a href="https://mills888dev.github.io/WEBSITE/Issues/Healthcare.html">Read more</a> </p>
   
 </html>

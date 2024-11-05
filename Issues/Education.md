@@ -82,7 +82,7 @@ nav_order: 3
     <div class="content-container">
         <h1>Education</h1>
         <p>
-            Our minor changes to the education funding system will help <strong>increase education</strong> and make it <strong>easier for you as a US citizen to seek higher education</strong>.
+            We will <strong>increase funding</strong> for the education system to make it <strong>easier for citizens to gain higher education</strong>.
         </p>
 
         <h2>Our Changes</h2>
