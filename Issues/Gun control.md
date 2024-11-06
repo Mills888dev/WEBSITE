@@ -2,7 +2,7 @@
 title: Gun Control
 parent: Issues
 layout: home
-nav_order: 3
+nav_order: 2
 ---
 <html lang="en">
 <head>
