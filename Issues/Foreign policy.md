@@ -74,7 +74,7 @@ nav_order: 1
         <p>We will <strong>increase US funding</strong> to ITER by $5 million each year.</p>
         <h2>Our Changes</h2>
         <p>
-        Increase funding to ITER /(International Thermonuclear Experimental Reactor/) by $5 million a year
+        Increase funding to ITER (International Thermonuclear Experimental Reactor) by $5 million a year
         </p>
         <h2>What this will change</h2>
         <p>
