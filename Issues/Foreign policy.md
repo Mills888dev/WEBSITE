@@ -73,24 +73,12 @@ nav_order: 1
         <h1>Foreign Policy</h1>
         <p>We will <strong>increase US funding</strong> to ITER by $5 million each year.</p>
         <h2>Our Changes</h2>
-        <ul>
-             <li>10% of your taxes will go towards these categories and you can pick them</li>
-            <ul>
-            <li>Police</li>
-            <li>Military</li>
-            <li>Public transport</li>
-            <li>Mental health</li>
-            <li>Education</li>
-            <li>General Govermant</li>
-            <li>View the example <a href="https://docs.google.com/spreadsheets/d/10oxkAzvUcloLLZc83nalHt6Bl-7g-g0pl6pxX95FG4U/edit?usp=sharing">here</a></li>
-             </ul>
-        <li>Minor increace in taxes to fund more systems and allow more choice for you</li>
-        <li>Decreased military funding and taking down multiple foreign US military installments and increase funding towards military research.</li>
-        <li>Better mental health</li>
-        </ul>
-        <h2>How it will affect you as a tax payer</h2>
         <p>
-            The new tax system will allow you to have more of a voice in what happens. Every year you will change what gets funding and what gets less, meaning that you can better influence your ever changing interests.
+        Increase funding to ITER /(International Thermonuclear Experimental Reactor/) by $5 million a year
+        </p>
+        <h2>What this will change</h2>
+        <p>
+            The money will come from the new tax system. The long term goal is the use this to generate clean energy for the world. This will be cheaper then some other clean energy soucre used now.
         </p>
         <!-- Call to action -->
         <a href="/WEBSITE/Donations.html" class="action-button">Donate now</a>
