@@ -2,7 +2,7 @@
 title: Foregin Policy
 parent: Issues
 layout: home
-nav_order: 5
+nav_order: 6
 ---
 <html lang="en">
 <head>

@@ -90,7 +90,7 @@ nav_order: 1
         </ul>
         <h2>How it will affect you as a tax payer</h2>
         <p>
-            The new tax system will allow you to have more of a voice in what happens. Every year you will change what gets funding and what gets less, meaning that you can better influence your ever changing interests.
+            The new tax system will allow you to have more of a voice in what happens. Every year you will change what gets funding, meaning that you can better influence your ever changing interests.
         </p>
         <!-- Call to action -->
         <a href="/WEBSITE/Donations.html" class="action-button">Donate now</a>

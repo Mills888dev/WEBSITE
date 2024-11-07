@@ -204,7 +204,7 @@ WIP
         </div>
         <div class="text-box">
             <h1>Your Voice Matters</h1>
-            <p>Prepare to vote for Miles this election!</p>
+            <p>Vote for Miles this election!</p>
             <div class="newsletter-form">
                 <input type="email" class="input-field" placeholder="Enter your email" required>
                 <button class="submit-button">Sign Up for Newsletter</button>
