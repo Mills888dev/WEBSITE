@@ -22,7 +22,7 @@ nav_order: 3
                 <input type="radio" name="amount" value="100"> $100
             </label>
         </div>
-        <button type="submit" class="donate-button">Donate Now</button>
+        <button type="submit" class="donate-button">Donate Now!</button>
     </form>
 </div>
     <div class="merch-item-container">
