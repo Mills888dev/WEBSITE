@@ -1,5 +1,5 @@
 ---
-title: Border Control
+title: Border Security
 parent: Issues
 layout: home
 nav_order: 3
@@ -8,7 +8,7 @@ nav_order: 3
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Border Control</title>
+   <title>Border Security</title>
    <style>
        body, html {
            margin: 0;
