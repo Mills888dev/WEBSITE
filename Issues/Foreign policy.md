@@ -71,7 +71,7 @@ nav_order: 6
 <body>
     <div class="content-container">
         <h1>Foreign Policy</h1>
-        <p>We will <strong>increase US funding</strong> to ITER by $5 million each year.</p>
+        <p>We will <strong>increase US funding</strong> to ITER by $5 million each year to hopefully help create <strong>cheaper</strong> and more <strong>energy efficient</strong> reactors.</p>
         <h2>Our Changes</h2>
         <p>
         Increase funding to ITER (International Thermonuclear Experimental Reactor) by $5 million a year
