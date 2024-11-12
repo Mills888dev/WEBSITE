@@ -90,13 +90,13 @@ nav_order: 5
             <li>Extra funding coming from the increased taxes for “choose your own taxes” if needed:</li>
             <ul>
                 <li>33.3% to higher education</li>
-                <li>66.6% to pre-k-12 schools</li>
+                <li>66.6% to pre-K-12 schools</li>
             </ul>
             <li>With the tax increases we will increase or introduce funding to:</li>
             <ul>
-                <li>state/city-ran technical colleges(17k/student average)</li>
+                <li>State/city-ran technical colleges(17k/student average)</li>
                 <li>Increase to Public schools funding(30k/student average)</li>
-                <li>School grants(us spends 53.43 billion last year on grants)</li>
+                <li>School grants(U.S. spends 53.43 billion last year on grants)</li>
                 <li>college/university grants(174.9 billion spent last year on programs)</li>
                 <li>Scholarships/financial aid for college/university(government spent 46 billion on scholarships last year)</li>
             </ul>
