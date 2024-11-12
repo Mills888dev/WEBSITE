@@ -97,7 +97,7 @@ nav_order: 5
                 <li>State/city-ran technical colleges(17k/student average)</li>
                 <li>Increase to Public schools funding(30k/student average)</li>
                 <li>School grants(U.S. spends 53.43 billion last year on grants)</li>
-                <li>college/university grants(174.9 billion spent last year on programs)</li>
+                <li>College/university grants(174.9 billion spent last year on programs)</li>
                 <li>Scholarships/financial aid for college/university(government spent 46 billion on scholarships last year)</li>
             </ul>
         </ul>
