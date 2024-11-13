@@ -84,8 +84,8 @@ nav_order: 1
             <li>General Govermant</li>
             <li>View the example <a href="https://docs.google.com/spreadsheets/d/10oxkAzvUcloLLZc83nalHt6Bl-7g-g0pl6pxX95FG4U/edit?usp=sharing">here</a></li>
              </ul>
-        <li>Minor increace in taxes to fund more systems and allow more choice for you</li>
-        <li>Decreased military funding and taking down multiple foreign US military installments and increase funding towards military research.</li>
+        <li>Minor increase in taxes to fund more systems and allow more choice for you</li>
+        <li>Decrease military funding, take down multiple foreign US military installments, and increase funding towards military research.</li>
         <li>Better mental health</li>
         </ul>
         <h2>How it will affect you as a tax payer</h2>

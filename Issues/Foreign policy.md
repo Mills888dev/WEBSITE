@@ -78,11 +78,10 @@ nav_order: 6
         </p>
         <h2>What this will change</h2>
         <p>
-            The money will come from the new tax system. The long term goal is the use this to generate clean energy for the world. This will be cheaper then some other clean energy soucre used now.
+            The money will come from the new tax system. The long term goal is to use this to generate clean energy for the world. This will be cheaper than some other clean energy sources used now.
         </p>
         <!-- Call to action -->
         <a href="/WEBSITE/Donations.html" class="action-button">Donate now</a>
     </div>
 </body>
 </html>
-

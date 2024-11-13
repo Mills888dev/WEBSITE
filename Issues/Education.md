@@ -95,7 +95,7 @@ nav_order: 5
             <li>With the tax increases we will increase or introduce funding to:</li>
             <ul>
                 <li>State/city-ran technical colleges(17k/student average)</li>
-                <li>Increase to Public schools funding(30k/student average)</li>
+                <li>Increase Public schools funding(30k/student average)</li>
                 <li>School grants(U.S. spends 53.43 billion last year on grants)</li>
                 <li>College/university grants(174.9 billion spent last year on programs)</li>
                 <li>Scholarships/financial aid for college/university(government spent 46 billion on scholarships last year)</li>
