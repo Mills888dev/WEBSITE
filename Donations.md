@@ -24,7 +24,13 @@ nav_order: 3
         </div>
         <button type="submit" class="donate-button">Donate Now!</button>
     </form>
+<<<<<<< HEAD
     
+=======
+     <div class="image-box">
+            <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
+        </div>
+>>>>>>> parent of 237918e (top border to image test)
 </div>
     <div class="merch-item-container">
         <!-- Shirt Item with Hover Effect -->
