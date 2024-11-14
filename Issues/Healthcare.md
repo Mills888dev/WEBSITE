@@ -102,7 +102,7 @@ nav_order: 4
 		<li>Enforce antitrust laws to limit monopolies which will help bring down costs.</li>
 		<li>Create scholarships to reduce the cost of becoming a therapist</li>
 		<li>Strengthen guidelines for medical Direct-to-Consumer Advertising and increase resources for the FDA to review those ads</li>
-		<li>Allow Medicare to negotiate with drug manufactures the lower the cost that people pay</li>
+		<li>Allow Medicare to negotiate with drug manufacturers the lower the cost that people pay</li>
 		<li>Reimburse part of medical costs for people in the 12%-24% tax brackets, 12% will get the most and 24% will get the least. All other brackets will get noting</li>
        </ul>
 

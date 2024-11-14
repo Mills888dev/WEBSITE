@@ -12,12 +12,12 @@ nav_order: 4
                 <th>Name</th>
                 <th>Political Alignments</th>
                 <th>Beliefs/Political Info</th>
-                <th>Gun Control (Split)</th>
-                <th>Border Security (Dominic)</th>
-                <th>Education (Miles)</th>
-                <th>Healthcare (Dominic)</th>
-                <th>Taxes (Miles)</th>
-                <th>Foreign Policy (Split)</th>
+                <th>Gun Control</th>
+                <th>Border Security</th>
+                <th>Education</th>
+                <th>Healthcare</th>
+                <th>Taxes</th>
+                <th>Foreign Policy</th>
             </tr>
         </thead>
         <tbody>

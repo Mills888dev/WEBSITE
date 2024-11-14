@@ -99,7 +99,7 @@ nav_order: 3
        <h2>Our Changes</h2>
        
        <ul>
-		<li>Limit the number of new legal case that can be filed each day. Number alowed will be reviewed each year and change depending on the number of pending cases left</li>
+		<li>Limit the number of new legal case that can be filed each day. Number allowed will be reviewed each year and change depending on the number of pending cases left</li>
 		<li>Add more officers to stop crossings outside ports of entry</li>
 		<ul>
             <li>Fund new tech for border officers to use</li>
@@ -109,7 +109,7 @@ nav_order: 3
         <ul>
             <li> Also increase support staff to help judges</li>
         </ul>
-        <li>Add staff to work to approve Employment authorization documents faster so more people can work while they wait for updated status</li>
+        <li>Add staff to work to approve Employment Authorization Documents faster so more people can work while they wait for updated status</li>
         <li>Pay for citizenship to pay for this and price will be scaled based on how much funding is needed</li>
        </ul>
 

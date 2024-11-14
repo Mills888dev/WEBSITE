@@ -7,8 +7,8 @@ WIP
 {: .label .label-yellow}
 <html>
 <h1>Issues</h1>
-  <h2>Tax Changes</h2>
-    <p>The current tax system doesnt represtent the current American. Our tax system will allow you to pick where some of your taxes go so you can chose what gets funded. <a href="https://mills888dev.github.io/WEBSITE/Issues/Taxes.html">Read more</a> </p>
+  <h2>Tax Change's</h2>
+    <p>The current tax system doesnt represent the current American. Our tax system will allow you to pick where some of your taxes go so you can chose what gets funded. <a href="https://mills888dev.github.io/WEBSITE/Issues/Taxes.html">Read more</a> </p>
     <h2>Gun Control</h2>
     <p>We will add restrictions on high-power rifles, automatics, and high-capacity weapons while keeping the same regulations for self defense/hunting weapons.  <a href="https://mills888dev.github.io/WEBSITE/Issues/Gun%20control.html">Read more</a> </p>
     <h2>Border Security</h2>
@@ -18,7 +18,7 @@ WIP
     <h2>Education</h2>
     <p>We will increase funding for the education system to make it easier for citizens to gain higher education. <a href="https://mills888dev.github.io/WEBSITE/Issues/Education.html">Read more</a> </p>
     <h2>Foreign Policy</h2>
-    <p>We will increase US funding to the International Thermonuclear Experimental Reactor (ITER) by $5 million each year. <a href="https://mills888dev.github.io/WEBSITE/Issues/Foreign%policy.html">Read more</a> </p>
+    <p>We will increase US funding to the International Thermonuclear Experimental Reactor (ITER) by $5 million each year. <a href="https://mills888dev.github.io/WEBSITE/Issues/Foreign%20policy.html">Read more</a> </p>
   
   
 </html>
