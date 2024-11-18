@@ -4,8 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-WIP
-{: .label .label-yellow}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
