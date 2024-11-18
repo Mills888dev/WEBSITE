@@ -29,7 +29,7 @@ nav_order: 3
 
      <div class="image-box">
             <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
-        </div>
+     </div>
         
 </div>
     <div class="content-container">
@@ -124,7 +124,7 @@ nav_order: 3
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
     .donate-section h2 {
-        color: #4CAF50;
+        color: white;
         font-size: 2rem;
         margin-bottom: 20px;
     }
