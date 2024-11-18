@@ -33,28 +33,28 @@ nav_order: 3
         
 </div>
     <div class="content-container">
-    <h2>Merchandise</h2>
-    <div class="merch-item-container">
+     <h2>Merchandise</h2>
+        <div class="merch-item-container">
 
-        <!-- Shirt Item with Hover Effect -->
-        <div class="merch-item">
+         <!-- Shirt Item with Hover Effect -->
+         <div class="merch-item">
             <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
             <img src="product1back.jpg" alt="T-Shirt Back" class="merch-image-hover">
-        </div>   
-        <!-- Other Merch Items -->
-        <div class="merch-item">
+         </div>   
+         <!-- Other Merch Items -->
+         <div class="merch-item">
             <img src="product2.jpg" alt="Cap" class="merch-image">
             <img src="product2back.jpg" alt="cap back" class="merch-image-hover">
-        </div>
-        <div class="merch-item">
+         </div>
+         <div class="merch-item">
             <img src="product3.jpg" alt="Mug" class="merch-image">
             <img src="product3back.jpg" alt="mug back" class="merch-image-hover">
-        </div>
-        <div class="merch-item">
+         </div>
+         <div class="merch-item">
           <img src="product4.jpg" alt="Mug" class="merch-image">
             <img src="product4back.jpg" alt="mug back" class="merch-image-hover">
+          </div>
         </div>
-    </div>
     </div>
 </div>
 <style>
