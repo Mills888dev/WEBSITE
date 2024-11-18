@@ -33,7 +33,7 @@ nav_order: 3
         </div>
 </div>
     <div class="merch-item-container">
-    <h2 style="color:4CAF50;">Merchandise</h2>
+    <h2>Merchandise</h2>
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
             <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
@@ -121,7 +121,7 @@ nav_order: 3
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
     .donate-section h2 {
-        color: white;
+        color: #4CAF50;
         font-size: 2rem;
         margin-bottom: 20px;
     }
