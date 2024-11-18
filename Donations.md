@@ -1,5 +1,5 @@
 ---
-title: Merchandise
+title: Shop
 layout: home
 nav_order: 3
 ---
@@ -32,6 +32,9 @@ nav_order: 3
             <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
 </div>
+<h2>
+Merchandise
+</h2>
     <div class="merch-item-container">
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
