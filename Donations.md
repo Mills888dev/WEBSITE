@@ -23,17 +23,18 @@ nav_order: 3
             </label>
         </div>
         <button type="submit" class="donate-button">Donate Now!</button>
-        <p> 
-               
+        <p>     
         </p>
     </form>
-    
+    <div class="content-container">
+    <h2>Merchandise</h2>
      <div class="image-box">
             <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
+        </div>
 </div>
     <div class="merch-item-container">
-<h2>Merchandise</h2>
+
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
             <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
@@ -141,6 +142,14 @@ nav_order: 3
         gap: 20px;
         margin-bottom: 20px;
     }
+     .content-container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #27262b;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
     .donation-amounts label {
         background-color: #7095DB;
         color: black;
