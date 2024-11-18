@@ -23,6 +23,9 @@ nav_order: 3
             </label>
         </div>
         <button type="submit" class="donate-button">Donate Now!</button>
+        <p> 
+               
+        </p>
     </form>
     
      <div class="image-box">
