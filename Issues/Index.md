@@ -6,7 +6,7 @@ nav_order: 2
 <html>
 <h1>Issues</h1>
   <h2>Tax Change's</h2>
-    <p>The current tax system doesnt represent the current American. Our tax system will allow you to pick where some of your taxes go so you can chose what gets funded. <a href="https://mills888dev.github.io/WEBSITE/Issues/Taxes.html">Read more</a> </p>
+    <p>The current tax system doesn't represent the current American. Our tax system will allow you to pick where some of your taxes go so you can chose what gets funded. <a href="https://mills888dev.github.io/WEBSITE/Issues/Taxes.html">Read more</a> </p>
     <h2>Gun Control</h2>
     <p>We will add restrictions on high-power rifles, automatics, and high-capacity weapons while keeping the same regulations for self defense/hunting weapons.  <a href="https://mills888dev.github.io/WEBSITE/Issues/Gun%20control.html">Read more</a> </p>
     <h2>Border Security</h2>

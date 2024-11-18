@@ -6,7 +6,7 @@ nav_order: 3
 <div class="merch-page-section">
     <h1>All funds help bring power to the people!</h1>
     <div class="donate-section">
-    <h2>Support Our Campaign</h2>
+    <h2>Support Our Campaign!</h2>
     <form action="https://streamelements.com/peanutbuddaboi/tip" method="POST" class="donation-form">
         <div class="donation-amounts">
             <label>
