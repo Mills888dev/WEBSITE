@@ -33,7 +33,7 @@ nav_order: 3
         </div>
 </div>
     <div class="merch-item-container">
-    <h2>Merchandise</h2>
+<h2>Merchandise</h2>
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
             <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
