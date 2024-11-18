@@ -82,7 +82,7 @@ nav_order: 5
     <div class="content-container">
         <h1>Education</h1>
         <p>
-            We will <strong>increase funding</strong> for the education system to make it <strong>easier for citizens to gain higher education</strong>.
+            We will increase funding for the education system to make it easier for citizens to gain higher education through lower tuition cost and overall better quality education. 
         </p>
 
         <h2>Our Changes</h2>
@@ -104,9 +104,9 @@ nav_order: 5
 
         <h2>How it will affect you</h2>
         <p>
-            not in doc yet
-        </p>
+            This policy will allow you a American citizen, to easily access higher educations, and allow you and your children to get overall higher-quality and cheaper education.
 
+        </p>
         <!-- Call to action -->
         <a href="/WEBSITE/Donations.html" class="action-button">Donate now</a>
     </div>

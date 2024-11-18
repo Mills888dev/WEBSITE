@@ -45,10 +45,6 @@ nav_order: 4
     </table>
 </div>
 </div>
-<div class="content-container">
-    <h1>Conclusion</h1>
-    <p>This data shows that about 50% of poeple that we talked to have would vote fro us witch means that we have a good chance of winnin this upcoming election.</p>
-</div>
 <style>
       /* Background for the section */
     .policy-table-section {
@@ -94,7 +90,6 @@ nav_order: 4
             font-size: 0.9rem;
         }
     }
-
     @media (max-width: 480px) {
         .policy-table {
             font-size: 0.8rem;
@@ -121,34 +116,24 @@ nav_order: 4
            font-size: 2.5rem;
            text-align: center;
        }
-
-
        h2 {
            color: #4CAF50;
            font-size: 2rem;
            margin-top: 30px;
        }
-
-
        p {
-           font-size: 1.2rem;
+       font-size: 1.2rem;
            margin-bottom: 20px;
        }
-
-
        ul, li {
            font-size: 1.1rem;
            margin-bottom: 10px;
            padding-left: 20px;
        }
-
-
        ul ul {
            margin-top: 10px;
            padding-left: 20px;
        }
-
-
        /* Styling for key terms */
        strong {
            color: #1D998D;
