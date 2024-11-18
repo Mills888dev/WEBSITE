@@ -45,6 +45,10 @@ nav_order: 4
     </table>
 </div>
 </div>
+<div class="content-container">
+    <h1>Conclusion</h1>
+    <p>Our data concluded that about 61% of people will vote for us in the upcoming election.</p>
+</div>
 <style>
       /* Background for the section */
     .policy-table-section {

@@ -105,7 +105,6 @@ nav_order: 5
         <h2>How it will affect you</h2>
         <p>
             This policy will allow you a American citizen, to easily access higher educations, and allow you and your children to get overall higher-quality and cheaper education.
-
         </p>
         <!-- Call to action -->
         <a href="/WEBSITE/Donations.html" class="action-button">Donate now</a>
