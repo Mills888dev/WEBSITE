@@ -32,10 +32,8 @@ nav_order: 3
             <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
 </div>
-<h2>
-Merchandise
-</h2>
     <div class="merch-item-container">
+    <h2>Merchandise</h2>
         <!-- Shirt Item with Hover Effect -->
         <div class="merch-item">
             <img src="product1.jpg" alt="T-Shirt Front" class="merch-image">
