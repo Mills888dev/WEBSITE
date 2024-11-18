@@ -26,13 +26,14 @@ nav_order: 3
         <p>     
         </p>
     </form>
-    <div class="content-container">
-    <h2>Merchandise</h2>
+
      <div class="image-box">
             <img src="HomePhoto.png" alt="Candidate Image"> <!-- Replace with your image path -->
         </div>
-        </div>
+        
 </div>
+    <div class="content-container">
+    <h2>Merchandise</h2>
     <div class="merch-item-container">
 
         <!-- Shirt Item with Hover Effect -->
@@ -53,6 +54,7 @@ nav_order: 3
           <img src="product4.jpg" alt="Mug" class="merch-image">
             <img src="product4back.jpg" alt="mug back" class="merch-image-hover">
         </div>
+    </div>
     </div>
 </div>
 <style>
