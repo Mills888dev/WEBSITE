@@ -224,7 +224,7 @@ nav_order: 1
             <img src="product2.jpg" alt="Cap">
             <img src="product3.jpg" alt="Mug">
         </div>
-        <a href="/WEBSITE/Donations.html" class="policies-button">Visit Our Merch Page</a>
+        <a href="/WEBSITE/Donations.html">Visit Our Merch Page</a>
         </div>
       <div class="donate-bar">
         <h2>Donate Now</h2>
